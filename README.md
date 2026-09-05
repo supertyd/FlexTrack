@@ -11,7 +11,7 @@
 
 Welcome to the official repository for **FlexTrack**.
 
-> **Note:** The code is coming soon! 😊  
+
 > Please check out our main code repository here: **[supertyd/FlexTrackV2](https://github.com/supertyd/FlexTrackV2)**
 
 ## Related Work
